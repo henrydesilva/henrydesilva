@@ -1,4 +1,5 @@
-<h1 align="center">print("Welcome to my GitHub")</h1>
+```python
+print("Welcome to my GitHub")
 
 ---
 
