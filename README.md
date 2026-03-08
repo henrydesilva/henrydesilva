@@ -1,6 +1,6 @@
-
-print("Welcome to my GitHub")
-
+```python
+print("Welcome to my github!")
+```
 ---
 
 💻 Software Developer  
