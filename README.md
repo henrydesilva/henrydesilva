@@ -1,13 +1,36 @@
-# Henry Silva
 
-print("Welcome to my GitHub")
+pelo seu usuário do GitHub.
 
-💻 Software Developer  
-📚 Estudante de Informática  
-🌎 Brasil  
+---
 
-## 🚀 Tecnologias
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git)
+# 3️⃣ Resultado
+Vai aparecer:
 
-## 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
+- código `print("Welcome to my GitHub")`
+- descrição profissional
+- ícones de tecnologias
+- estatísticas
+- gráfico de commits
+
+basicamente **igual ao da foto**.
+
+---
+
+⚠️ Agora um detalhe importante que muita gente ignora:
+
+Se seu perfil tiver **README bonito mas repositórios vazios**, ele perde valor.
+
+Para realmente ficar forte você precisa ter pelo menos:
+
+- 1 projeto **fullstack**
+- 1 projeto **API**
+- 1 projeto **frontend**
+- 1 projeto **dados ou automação**
+
+---
+
+💡 Se quiser, eu também posso te mandar:
+
+- **um template de GitHub MUITO mais bonito que esse da foto**
+- **3 projetos que fazem recrutador te chamar**
+- **como deixar o gráfico de commits cheio (truque que dev usa)**.
