@@ -5,7 +5,7 @@ print("Welcome to my github!")
 
 👨‍💻 Software Developer 
 
-🎓 Informatics Student at (https://bru.ifsp.edu.br/)
+🎓 Informatics Student at [IFSP] (https://bru.ifsp.edu.br/)
 
 📍 Based in Bauru, Brazil 
 
