@@ -3,31 +3,17 @@ print("Welcome to my github!")
 ```
 ---
 
-💻 Software Developer  
+👨‍💻 Software Developer 
 
-🎓 Estudante de Informática  
+🎓 Informatics Student at (https://bru.ifsp.edu.br/)
 
-📍 Brasil  
+📍 Based in Bauru, Brazil 
 
-🚀 Apaixonado por:
-- Web Development
-- Data
-- AI
-
-🌎 English Level: B1/B2
+🌎 English Level: B1 (Upper Intermediate) 
 
 ---
 
-## 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,vue,bootstrap,c,figma,docker"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,figma,"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
