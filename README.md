@@ -13,10 +13,8 @@ Atualmente estudando e desenvolvendo projetos com **Python**, buscando transform
 
 ## 🛠 Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,,"/>
+</p>
 
 ---
 
@@ -48,8 +46,5 @@ Atualmente estudando e desenvolvendo projetos com **Python**, buscando transform
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/henrydesilva)
 ---
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,figma,"/>
-</p>
