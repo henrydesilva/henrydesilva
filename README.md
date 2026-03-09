@@ -25,8 +25,6 @@ Atualmente estudando e desenvolvendo projetos com **Python**, buscando transform
 | Projeto | Descrição | Tech |
 |-------|-----------|------|
 | python-estudos | Exercícios e desafios de lógica e programação | Python |
-| algoritmos-c | Implementações de algoritmos e estruturas básicas | C |
-| projetos-js | Pequenos projetos e práticas com JavaScript | JavaScript |
 
 ---
 
