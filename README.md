@@ -11,13 +11,6 @@ Atualmente estudando e desenvolvendo projetos com **Python**, buscando transform
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,,"/>
-</p>
-
----
-
 ## 🚀 Atualmente
 
 - 🎓 Estudante de **Informática no IFSP**
@@ -47,4 +40,8 @@ Atualmente estudando e desenvolvendo projetos com **Python**, buscando transform
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/henrydesilva)
+
 ---
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,,"/>
+</p>
